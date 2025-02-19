@@ -1,2 +1,2 @@
 # asus-C621--hackintosh
-货硕c621黑苹果
+华硕c621黑苹果
